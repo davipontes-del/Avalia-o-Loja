@@ -1,0 +1,5 @@
+{
+  "name": "Feedback Kiosk",
+  "description": "A simple and fast feedback kiosk application for collecting customer ratings and comments, designed for a tablet interface.",
+  "requestFramePermissions": []
+}

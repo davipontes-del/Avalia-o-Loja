@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.base.json",
+  "include": ["src"], // Diz ao TypeScript para incluir todos os arquivos na pasta 'src'
+  "references": [{ "path": "../Frontend/tsconfig.node.json" }] // Padrão do Vite para o arquivo de config
+}
